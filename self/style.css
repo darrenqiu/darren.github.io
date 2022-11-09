@@ -1,0 +1,90 @@
+@keyframes animated-border {
+    0% {
+      box-shadow: 0 0 0 0 rgba(255,255,255,0.4);
+    }
+    100% {
+       box-shadow: 0 0 0 20px rgba(255,255,255,0);
+    }
+  }  
+ 
+  a{
+    animation: animated-border 2.5s infinite;
+    font-family: Arial;
+    font-size: 110px;
+    line-height: 110px;
+    font-weight: bold;
+    border: 10px solid;
+    border-radius: 60px;
+    padding: 5px;
+}
+
+body{
+    font-family: "Roboto";
+    background-image: url(bg.png);
+    background-size: cover;
+    
+}
+
+.begin{
+    color:rgba(47, 168, 238, 0.626);
+    font-size: 120px;
+    font-weight: 600;
+    text-align:center;
+    box-shadow: 25px 10px 30px #94919170;
+    padding: 5px;
+    border-radius: 80%;
+    filter: brightness(110%);
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #e91e63,
+        0 0 35px #e91e63, 0 0 40px #e91e63, 0 0 50px #e91e63, 0 0 75px #e91e63;
+    
+}
+
+
+.gyms{
+    text-align: center;
+
+}
+
+.gym{
+    color: rgba(255, 27, 2, 0.921);
+    text-decoration: none;
+}
+
+.loves{
+    text-align: center;
+    
+}
+
+
+.love{
+    color: hotpink;
+    text-decoration: none;
+   
+}
+
+.games{
+    text-align: center;
+
+}
+ .game{
+    color:peru ;
+    text-decoration: none;
+ }
+
+ .studys{
+    text-align: center;
+
+ }
+.study{
+    color: burlywood;
+    text-decoration: none;
+}
+
+ .fun{
+    text-align: center;
+ }
+
+ .under{
+    color: rgba(255, 255, 255, 0.989);
+    text-align: center;
+ }

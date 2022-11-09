@@ -1,0 +1,63 @@
+body{
+    font-family: "Roboto";
+    background-image: url(love.jpg);
+    background-size:cover;
+}
+
+
+
+.loves{
+    color:rgb(255, 89, 0);
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 0 0 10px #b806a0ac, 0 0 10px #b803f4; 
+    line-height: 0.2;
+    
+}
+
+.love1 {
+    font-size: 85px;
+    font-weight:600;
+    line-height: 1;
+    color: rgba(100, 46, 106, 0.971);
+    text-shadow: 0 0 10px #0088ff9b, 0 0 10px #03f47b; 
+    
+}
+
+.love{
+    text-align: center;
+    line-height: 0.6;
+    border-radius: 70px;
+    padding: 5px;
+}
+
+.timer {
+    font-size: 60px;
+    line-height: 1.5;
+    font-weight:550;
+    line-height: 1.5;
+    text-shadow: 0 0 10px #0088ff9b, 0 0 10px #03f47b; 
+}
+
+.timer b {
+    color: rgb(8, 60, 216);
+    text-shadow: 0 0 10px #0088ff9b, 0 0 10px #03f47b; 
+    font-size:75;
+}
+
+.love520{
+    text-align: center;
+}
+
+.love5201{
+    color: darkred;
+    text-shadow: 0 0 10px #0088ff9b, 0 0 10px #03f47b; 
+    text-decoration: none;
+    font-size: 100px;
+    font-weight: 500px;
+    font-weight: bold;
+    border: 10px solid;
+    border-radius: 60px;
+    padding: 5px;
+}
+

@@ -1,0 +1,21 @@
+body{
+    font-family: "Roboto";
+    background-image: url(gw2.jpg);
+    background-size:cover;
+
+}
+
+.gyms{
+    color:rgb(0, 174, 255);
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 0 0 20px #3700ff, 0 0 10px #03dcf4; 
+    line-height: 10px;
+}
+
+.gym2{
+    color: darkkhaki;
+    font-size: 20px;
+    line-height: 10px;
+
+}

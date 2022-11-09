@@ -1,0 +1,13 @@
+body{
+    font-family: "Roboto";
+    background-image: url(gamew.jpg);
+    background-size: cover;
+}
+
+.games{
+    color:peru;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 0 0 10px #00d5ff, 0 0 10px #3703f4; 
+}
+
